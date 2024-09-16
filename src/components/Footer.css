@@ -1,0 +1,29 @@
+/* Example Footer styling */
+.footer {
+    background-color: #446f71;/* Footer background color */
+    color: black; /* Footer text color */
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .footer a {
+    color: rgb(30, 28, 28); /* Link color */
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+    color: black;
+  }
+  
+  .mt-3 {
+    margin-top: 10px;
+  }
+  

@@ -1,0 +1,94 @@
+body{
+background-color: #eba287;
+background: linear-gradient(to right,#f0bdaa,#69b1b5, #f39b7b);
+}
+.navbar{
+  background-color: #446f71;
+  box-shadow:#69b1b5 ;
+  /* background-color: #e17c58;
+  box-shadow: 0 8px 6px -6px gray;
+  border-bottom: solid rgb(165, 164, 164) !important; */
+}
+.bg-color{
+  background-color: #7dd4d9;
+/* background-color: #eba287; */
+
+}
+.navbar-brand{
+  color: rgb(122, 116, 115);
+  font-size: x-large !important;
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+.navbar-nav{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+}
+.cartlist{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+}
+.login{
+  height: 155px;
+}
+/* .placeholder{
+  color: #f39b7b;
+} */
+ .form-control:focus{
+  margin-bottom: 20px;
+  border-color: hwb(16 48% 5%);
+  background-color: #69b1b5;
+  border-style: dashed;
+  box-shadow: inset 0 1px 1px hwb(16 48% 5%);
+   }
+
+.signup1{
+  text-align: center;
+  background-color: #69b1b5;
+  border-color: #f39b7b;
+  border-radius: 50%;
+}
+.btn{
+  background-color: hsl(183, 34%, 56%)!important;
+  border-color: #f39b7b !important;
+  border-style: dotted;
+  border-style: double;
+}
+.container{
+  font-family: 'Times New Roman', Times, serif;
+  font-stretch: ultra-expanded;
+}
+/* ==========Footer============= */ */
+
+.Footer {
+  color: white;
+  padding: 25px;
+  background: #000000; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #434343,
+    #000000
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #434343, #000000);
+}
+
+.Footer a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
+
+.Footer a:hover {
+  color: #ffefba;
+  border-bottom: 1px solid #ffefba;
+}
+.short-description {
+  text-align: center;
+  margin: 20px 0; /* Space between carousel and description */
+  font-size: 20px;
+ font-style: oblique;
+  color: #333; /* Optional: Customize text color */
+}
+.contact{
+  margin-top: 100px;
+}
+
