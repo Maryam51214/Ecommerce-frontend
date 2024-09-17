@@ -1,0 +1,32 @@
+[
+    {
+        "title": "cake decor",
+        "description": "Description for Product 1",
+        "price": "19.99",
+        "image": "cake decor.jpg"
+    },
+    {
+        "title": "frames",
+        "description": "Description for Product 2",
+        "price": "29.99",
+        "image": "frames.jpg"
+    },
+    {
+        "title": "mirror",
+        "description": "Description for Product 1",
+        "price": "19.99",
+        "image": "mirror.jpg"
+    },
+    {
+        "title": "out mirrors",
+        "description": "Description for Product 1",
+        "price": "19.99",
+        "image": "out mirrors.jpg"
+    },
+    {
+        "title": "planter",
+        "description": "Description for Product 1",
+        "price": "19.99",
+        "image": "planter.jpg"
+    }
+]
